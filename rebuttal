@@ -1,3 +1,9 @@
+
+ShaDowGNN: https://github.com/facebookresearch/shaDow_GNN
+H2GCN: https://github.com/GemsLab/H2GCN
+GPRGNN: https://github.com/jianhao2016/GPRGNN
+
+
 #GCNII on added datasets 
 import argparse
 import os.path as osp
