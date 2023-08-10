@@ -4,7 +4,7 @@ H2GCN: https://github.com/GemsLab/H2GCN
 GPRGNN: https://github.com/jianhao2016/GPRGNN
 
 
-#GCNII on added datasets 
+#GCNII+ on added datasets (ours)
 import argparse
 import os.path as osp
 import torch
