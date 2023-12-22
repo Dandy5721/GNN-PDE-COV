@@ -1,0 +1,38 @@
+GNNEarly
+m1.weight
+torch.Size([16, 1])
+m1.bias
+torch.Size([16])
+m2.1.weight
+torch.Size([2, 16])
+m2.1.bias
+torch.Size([2])
+odeblock.odefunc.alpha_train
+torch.Size([])
+odeblock.odefunc.beta_train
+torch.Size([])
+odeblock.odefunc.alpha_sc
+torch.Size([1])
+odeblock.odefunc.beta_sc
+torch.Size([1])
+odeblock.odefunc.w
+torch.Size([16, 16])
+odeblock.odefunc.d
+torch.Size([16])
+odeblock.reg_odefunc.odefunc.alpha_train
+torch.Size([])
+odeblock.reg_odefunc.odefunc.beta_train
+torch.Size([])
+odeblock.reg_odefunc.odefunc.alpha_sc
+torch.Size([1])
+odeblock.reg_odefunc.odefunc.beta_sc
+torch.Size([1])
+odeblock.reg_odefunc.odefunc.w
+torch.Size([16, 16])
+odeblock.reg_odefunc.odefunc.d
+torch.Size([16])
+fold 000 best val accuracy 0.710526 precision 0.504848 f1 0.590283 at epoch 99 and dataset FDG_classificationcus_cls-_CN_AD
+fold 001 best val accuracy 0.736842 precision 0.542936 f1 0.625199 at epoch 99 and dataset FDG_classificationcus_cls-_CN_AD
+fold 002 best val accuracy 0.763158 precision 0.582410 f1 0.660644 at epoch 99 and dataset FDG_classificationcus_cls-_CN_AD
+fold 003 best val accuracy 0.763158 precision 0.582410 f1 0.660644 at epoch 99 and dataset FDG_classificationcus_cls-_CN_AD
+fold 004 best val accuracy 0.763158 precision 0.582410 f1 0.660644 at epoch 99 and dataset FDG_classificationcus_cls-_CN_AD

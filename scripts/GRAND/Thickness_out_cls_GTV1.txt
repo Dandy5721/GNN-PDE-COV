@@ -1,0 +1,38 @@
+GNNEarly
+m1.weight
+torch.Size([16, 1])
+m1.bias
+torch.Size([16])
+m2.1.weight
+torch.Size([2, 16])
+m2.1.bias
+torch.Size([2])
+odeblock.odefunc.alpha_train
+torch.Size([])
+odeblock.odefunc.beta_train
+torch.Size([])
+odeblock.odefunc.alpha_sc
+torch.Size([1])
+odeblock.odefunc.beta_sc
+torch.Size([1])
+odeblock.odefunc.w
+torch.Size([16, 16])
+odeblock.odefunc.d
+torch.Size([16])
+odeblock.reg_odefunc.odefunc.alpha_train
+torch.Size([])
+odeblock.reg_odefunc.odefunc.beta_train
+torch.Size([])
+odeblock.reg_odefunc.odefunc.alpha_sc
+torch.Size([1])
+odeblock.reg_odefunc.odefunc.beta_sc
+torch.Size([1])
+odeblock.reg_odefunc.odefunc.w
+torch.Size([16, 16])
+odeblock.reg_odefunc.odefunc.d
+torch.Size([16])
+fold 000 best val accuracy 0.748466 precision 0.560202 f1 0.640792 at epoch 99 and dataset Thickness_classificationcus_cls-2
+fold 001 best val accuracy 0.810976 precision 0.657681 f1 0.726328 at epoch 99 and dataset Thickness_classificationcus_cls-2
+fold 002 best val accuracy 0.810976 precision 0.657681 f1 0.726328 at epoch 99 and dataset Thickness_classificationcus_cls-2
+fold 003 best val accuracy 0.810976 precision 0.657681 f1 0.726328 at epoch 99 and dataset Thickness_classificationcus_cls-2
+fold 004 best val accuracy 0.829268 precision 0.687686 f1 0.751870 at epoch 99 and dataset Thickness_classificationcus_cls-2

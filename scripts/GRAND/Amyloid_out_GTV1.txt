@@ -1,0 +1,38 @@
+GNNEarly
+m1.weight
+torch.Size([16, 1])
+m1.bias
+torch.Size([16])
+m2.1.weight
+torch.Size([2, 16])
+m2.1.bias
+torch.Size([2])
+odeblock.odefunc.alpha_train
+torch.Size([])
+odeblock.odefunc.beta_train
+torch.Size([])
+odeblock.odefunc.alpha_sc
+torch.Size([1])
+odeblock.odefunc.beta_sc
+torch.Size([1])
+odeblock.odefunc.w
+torch.Size([16, 16])
+odeblock.odefunc.d
+torch.Size([16])
+odeblock.reg_odefunc.odefunc.alpha_train
+torch.Size([])
+odeblock.reg_odefunc.odefunc.beta_train
+torch.Size([])
+odeblock.reg_odefunc.odefunc.alpha_sc
+torch.Size([1])
+odeblock.reg_odefunc.odefunc.beta_sc
+torch.Size([1])
+odeblock.reg_odefunc.odefunc.w
+torch.Size([16, 16])
+odeblock.reg_odefunc.odefunc.d
+torch.Size([16])
+fold 000 best val accuracy 0.878049 precision 0.896245 f1 0.882157 at epoch 18 and dataset Amyloid_classificationcus_cls-_CN_AD
+fold 001 best val accuracy 0.878049 precision 0.896245 f1 0.882157 at epoch 18 and dataset Amyloid_classificationcus_cls-_CN_AD
+fold 002 best val accuracy 0.878049 precision 0.896245 f1 0.882157 at epoch 18 and dataset Amyloid_classificationcus_cls-_CN_AD
+fold 003 best val accuracy 0.878049 precision 0.896245 f1 0.882157 at epoch 18 and dataset Amyloid_classificationcus_cls-_CN_AD
+fold 004 best val accuracy 0.878049 precision 0.896245 f1 0.882157 at epoch 18 and dataset Amyloid_classificationcus_cls-_CN_AD
