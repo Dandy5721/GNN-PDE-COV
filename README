@@ -1,5 +1,5 @@
 There are two files
 
-scripts: benchmark methods (including GCN, GAT, DenseGCN, ResGCN, GCNII, GRAND is in scripts folder, sine it's too large)
+scripts: benchmark methods (including GCN, GAT, DenseGCN, ResGCN, GCNII, GRAND is in the scripts folder, since it's too large)
 
 scripts+: our GNN-PDE-COV framework.
